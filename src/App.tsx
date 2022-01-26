@@ -10,7 +10,7 @@ const App = () => {
             <div className="content">
                 <Logo />
                 <h1>Coming Soon...</h1>
-                <Button href="mailto:andre.sousa@andresousa.pt?subject=André Sousa - Contact" variant="contained" color="secondary" startIcon={<MailIcon />}>
+                <Button href="mailto:support@andresousa.pt?subject=André Sousa - Contact" variant="contained" color="secondary" startIcon={<MailIcon />}>
                     Get in touch
                 </Button>
                 <div className="social-links">
